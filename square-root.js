@@ -30,7 +30,7 @@ var mySqrt = function (x) {
     }
     count++;
   }
-  return counter - 1;
+  return count - 1;
 };
 
 mySqrt(15);
